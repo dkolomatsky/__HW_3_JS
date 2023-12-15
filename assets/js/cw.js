@@ -1,14 +1,3 @@
-// <li>Створіть функцію, яка заповнюватиме масив 10-ма іксами за допомогою циклу.</li> 
-
-function arr (data){
-for(let i = 0; i < data.length; i++){
-  data[i] = 'x';
-}
-}
-
-const data = new Array(10);
-
-arr(data);
 
 
 // думки над ДЗ 3 завдання 15
@@ -27,3 +16,7 @@ arr(data);
 // <div><h3>Мова програмування: ${infoArr[2]}</h3></div>
 // `);
 // document.write('<button type="button" onclick=(studentInformation())>Додати студента</button>');
+
+
+
+    
